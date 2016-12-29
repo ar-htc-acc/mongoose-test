@@ -1,2 +1,2 @@
 # mongoose-test
-Testing Mongoose & Passport (passport, passport-local, connect-flash).
+Testing Mongoose & Passport (passport, passport-local, connect-flash). Also tested user login (session).
